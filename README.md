@@ -2,7 +2,10 @@
 Repo of CZ4041 ML Group7 Project on Store Item Demand Forecasting
 
 ## File Structure
-.ExploreData
+.Data
+....ExploreData
+....train
+....test
 |
 .XGBoost
 ....XGBoostBase
