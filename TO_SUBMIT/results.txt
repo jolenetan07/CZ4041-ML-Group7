@@ -1,5 +1,5 @@
 lightgbm-best_submission.csv Private Score 13.15425 Public Score 14.47140
 
-lstm-cnn-base_submission.csv Private Score 13.15425 Public Score 14.47140
+lstm-cnn-base_submission.csv Private Score 14.91691 Public Score 14.54415
 
 xgboost-best_submission.csv Private Score 13.74230 Public Score 14.76380
