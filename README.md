@@ -34,7 +34,7 @@ Repo of CZ4041 ML Group7 Project on Store Item Demand Forecasting
 ....tune\
 ........'lstm_tune.ipynb'\
 ....best\
-........'lstm-cnn_best.ipynb'\
+........'lstm_best.ipynb'\
 ........'lstm-best_submission.csv'\
 |\
 .LSTM-CNN\
