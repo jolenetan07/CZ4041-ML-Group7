@@ -6,7 +6,7 @@ Repo of CZ4041 ML Group7 Project on Store Item Demand Forecasting
 ....'explore_data.ipynb'\
 ....'train.csv'\
 ....'test.csv'\
-|
+|\
 .XGBoost\
 ....base\
 ........'xgboost_base.ipynb'\
@@ -16,7 +16,7 @@ Repo of CZ4041 ML Group7 Project on Store Item Demand Forecasting
 ....best\
 ........'xgboost_best.ipynb'\
 ........'xgboost-best_submission.csv'\
-|
+|\
 .LightGBM\
 ....base\
 ........'lightgbm_base.ipynb'\
@@ -26,12 +26,12 @@ Repo of CZ4041 ML Group7 Project on Store Item Demand Forecasting
 ....best\
 ........'lightgbm_best.ipynb'\
 ........'lightgbm-best_submission.csv'\
-|
+|\
 .LSTM\
 ....base\
 ....tune\
 ....best\
-|
+|\
 .LSTM-CNN\
 ....base\
 ....tune\
