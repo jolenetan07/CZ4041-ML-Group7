@@ -2,10 +2,8 @@
 Repo of CZ4041 ML Group7 Project on Store Item Demand Forecasting
 
 ## File Structure
-.Data\
 ....'explore_data.ipynb'\
-....'train.csv'\
-....'test.csv'\
+....'hypertune_extractor.ipynb'\
 |\
 .XGBoost\
 ....base\
